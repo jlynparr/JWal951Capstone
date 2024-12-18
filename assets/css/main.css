@@ -259,7 +259,7 @@ input, select, textarea {
 		text-transform: uppercase;
 	}
 
-	mainhead {
+	#mainhead {
 		text-shadow: 4px 4px 6px black;
 	}
 
