@@ -3465,6 +3465,7 @@ input, select, textarea {
 			line-height: 2;
 			text-transform: uppercase;
 			text-shadow: 4px 4px 6px black;
+			color: black;
 		}
 
 		@media screen and (max-width: 1280px) {
@@ -3564,7 +3565,7 @@ input, select, textarea {
 		}
 
 		#wrapper > header h2 {
-			border-bottom: solid 2px rgba(255, 255, 255, 0.125);
+			border-bottom: solid 4px rgba(255, 255, 255, 0.8);
 			font-size: 2em;
 			margin-bottom: 0.8em;
 			padding-bottom: 0.4em;
