@@ -3464,7 +3464,7 @@ input, select, textarea {
 			letter-spacing: 0.1em;
 			line-height: 2;
 			text-transform: uppercase;
-			text-shadow: 2px 2px 4px black;
+			text-shadow: 4px 4px 6px black;
 		}
 
 		@media screen and (max-width: 1280px) {
@@ -3515,7 +3515,7 @@ input, select, textarea {
 				}
 
 				#banner p {
-					font-size: 0.8em;
+					font-size: 1em;
 				}
 
 		}
