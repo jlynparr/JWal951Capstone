@@ -3437,6 +3437,7 @@ input, select, textarea {
 			font-size: 2.25em;
 			margin-bottom: 0.8em;
 			padding-bottom: 0.4em;
+			text-shadow: 2px 2px 4px black;
 		}
 
 		#banner p {
@@ -3463,6 +3464,7 @@ input, select, textarea {
 			letter-spacing: 0.1em;
 			line-height: 2;
 			text-transform: uppercase;
+			text-shadow: 2px 2px 4px black;
 		}
 
 		@media screen and (max-width: 1280px) {
